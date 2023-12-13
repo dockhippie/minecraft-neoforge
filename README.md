@@ -49,7 +49,7 @@ MIT
 ## Copyright
 
 ```console
-Copyright (c) 2015 Thomas Boerger <http://www.webhippie.de>
+Copyright (c) 2023 Thomas Boerger <http://www.webhippie.de>
 ```
 
 [upstream]: https://minecraft.net
