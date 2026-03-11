@@ -1,7 +1,7 @@
 ---
 repository:
   name: minecraft-neoforge
-  description: Docker images for minecraft-neoforge
+  description: Docker images for Minecraft Neoforge
   topics: docker, image
 
   private: false
